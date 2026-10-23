@@ -6,7 +6,7 @@ Data, code and survey materials for a research paper on India's Ethanol Blended 
 
 - **data/**:Vahan vehicle registration CSVs (2006–2026).
 - **analysis/**:Python scripts that clean and summarise the CSVs
-- **survey/**:Survey questionnaire (PDF) and anonymised responses (n = 2)
+- **survey/**:Survey questionnaire (.gs)
 
 ## Data Files
 
